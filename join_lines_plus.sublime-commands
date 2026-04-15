@@ -1,0 +1,16 @@
+[
+    { "caption": "Join Lines Plus: Comma, No Space", "command": "join_comma_no_space" },
+    { "caption": "Join Lines Plus: Comma, Space", "command": "join_comma_space" },
+    { "caption": "Join Lines Plus: Quote, Comma, No Space", "command": "quote_join_comma_no_space" },
+    { "caption": "Join Lines Plus: Quote, Comma, Space", "command": "quote_join_comma_space" },
+    { "caption": "Join Lines Plus: Quote, Tuple, No Space", "command": "quote_join_tuple_comma_no_space" },
+    { "caption": "Join Lines Plus: Quote, Tuple, Space", "command": "quote_join_tuple_comma_space" },
+    { "caption": "Join Lines Plus: Quote, List, No Space", "command": "quote_join_list_comma_no_space" },
+    { "caption": "Join Lines Plus: Quote, List, Space", "command": "quote_join_list_comma_space" },
+    { "caption": "Join Lines Plus: Double Quote, Comma, No Space", "command": "double_quote_join_comma_no_space" },
+    { "caption": "Join Lines Plus: Double Quote, Comma, Space", "command": "double_quote_join_comma_space" },
+    { "caption": "Join Lines Plus: Double Quote, Tuple, No Space", "command": "double_quote_join_tuple_comma_no_space" },
+    { "caption": "Join Lines Plus: Double Quote, Tuple, Space", "command": "double_quote_join_tuple_comma_space" },
+    { "caption": "Join Lines Plus: Double Quote, List, No Space", "command": "double_quote_join_list_comma_no_space" },
+    { "caption": "Join Lines Plus: Double Quote, List, Space", "command": "double_quote_join_list_comma_space" }
+]
